@@ -1,0 +1,15 @@
+{
+  "0": {
+    "on": "opened",
+    "off": "closed",
+    "turning_on": "opens",
+    "turning_off": "closes"
+  },
+
+  "1": {
+    "on": "inflated",
+    "off": "deflated",
+    "turning_on": "inflates",
+    "turning_off": "deflates"
+  }
+}
